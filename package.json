@@ -1,0 +1,13 @@
+{
+  "name": "tugboat-github-action",
+  "version": "1.0.0",
+  "description": "Tugboat GitHub Action",
+  "main": "index.js",
+  "repository": "https://github.com/TugboatQA/github-action",
+  "author": "Tugboat <support@tugboat.qa>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^3.0.0"
+  }
+}
